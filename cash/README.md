@@ -11,13 +11,13 @@ Open the cmd and do this :
  c - node bin/index.js
  
 
-##Result 
+## Result 
 
 here is the answer the console will give you (can change because of the parameter of your computer)
 
-b- ![Capture1](https://github.com/AmbreDonnadieu/3-musketeers/blob/master/cash/Capture1.PNG)
+b) ![Capture1](https://github.com/AmbreDonnadieu/3-musketeers/blob/master/cash/Capture1.PNG)
 
-c- ![Capture2](https://github.com/AmbreDonnadieu/3-musketeers/blob/master/cash/Capture2.PNG)
+c) ![Capture2](https://github.com/AmbreDonnadieu/3-musketeers/blob/master/cash/Capture2.PNG)
 
 ## Here is some explaination
 
