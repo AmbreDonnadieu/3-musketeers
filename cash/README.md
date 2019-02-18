@@ -7,5 +7,5 @@ Open the cmd and do this :
 
 #Result 
 here is the answer the console will give you (can change because of the parameter of your computer)
-b- ![Screenshot]("Capture1.PNG")
-c- ![Screenshot]("Capture2.PNG")
+b- ![Screenshot]("https://raw.githubusercontent.com/AmbreDonnadieu/3-musketeers/master/cash/Capture1.PNG")
+c- ![Screenshot]("https://raw.githubusercontent.com/AmbreDonnadieu/3-musketeers/master/cash/Capture2.PNG")
