@@ -15,6 +15,8 @@ Open the cmd and do this :
 
 here is the answer the console will give you (can change because of the parameter of your computer)
 
-b- ![Screenshot]("/3-musketeers/master/cash/Capture1.PNG")
+b- ![Screenshot]("https://ibb.co/0nW5QRq")
 
-c- ![Screenshot]("/3-musketeers/master/cash/Capture2.PNG")
+c- ![Screenshot]("https://ibb.co/BZ85Ssm")
+
+
