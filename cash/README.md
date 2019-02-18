@@ -7,5 +7,5 @@ Open the cmd and do this :
 
 #Result 
 here is the answer the console will give you (can change because of the parameter of your computer)
-b- ![Alt text]("cash\Capture1.PNG"?raw=true "result of npm i")
-c- ![Alt text]("cash\Capture2.PNG"?raw=true ">node bin/index.js")
+b- ![Screenshot]("Capture1.PNG")
+c- ![Screenshot]("Capture2.PNG")
