@@ -15,8 +15,8 @@ Open the cmd and do this :
 
 here is the answer the console will give you (can change because of the parameter of your computer)
 
-b- ![Screenshot]("https://ibb.co/0nW5QRq")
+b- ![Capture1](https://ibb.co/0nW5QRq)
 
-c- ![Screenshot]("https://ibb.co/BZ85Ssm")
+c- ![Capture2](https://ibb.co/BZ85Ssm)
 
 
